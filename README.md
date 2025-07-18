@@ -1,5 +1,13 @@
 ## I'm Chanyoung 👋
 
+University of California San Diego | Bachelor of Science in Data Science | 2023 - 2026 | 4.0 GPA
+
+Languages: Python, Java, R, SQL, PostgreSQL, HTML, CSS, Javascript
+
+Developer Tools: Git, GitHub, JupyterLab, Google Colab, VSCode, Tableau, AWS
+
+Libraries: NumPy, pandas, scikit-learn, Dask, PyTorch, TensorFlow, Matplotlib, D3
+
 [![Chanyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanyoungPark07&show_icons=true)](https://github.com/ChanyoungPark07/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark07&layout=donut&hide=Jupyter+Notebook)](https://github.com/ChanyoungPark07/github-readme-stats)
 
 Throughout my programming journey, I have actively pursued opportunities to gain hands-on experience that align with my passions and career goals.
