@@ -2,6 +2,8 @@
 
 University of California San Diego | Bachelor of Science in Data Science | Sep. 2023 - Jun. 2026 | 4.0 GPA
 
+LinkedIn: https://www.linkedin.com/in/chanyoung-park-869300276/
+
 Languages: Python, Java, R, SQL, PostgreSQL, HTML, CSS, Javascript
 
 Developer Tools: Git, GitHub, JupyterLab, Google Colab, VSCode, Tableau, AWS
