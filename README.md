@@ -1,6 +1,6 @@
 ## I'm Chanyoung 👋
 
-University of California San Diego | Bachelor of Science in Data Science | Sep. 2023 - Jun. 2026 | 4.0 GPA
+University of California San Diego | Bachelor of Science in Data Science | Sep. 2023 - 2026 | 4.0 GPA
 
 LinkedIn: https://www.linkedin.com/in/chanyoung-park-869300276/
 
