@@ -4,11 +4,11 @@ University of California San Diego | Bachelor of Science in Data Science | Sep. 
 
 LinkedIn: https://www.linkedin.com/in/chanyoung-park-869300276/
 
-Languages: Python, Java, R, SQL, PostgreSQL, HTML, CSS, Javascript
+Languages: Python, Java, R, SQL, PostgreSQL, HTML, CSS, Javascript, Next.js, React
 
-Developer Tools: Git, GitHub, JupyterLab, Google Colab, VSCode, Tableau, AWS
+Developer Tools: Git, GitHub, JupyterLab, Google Colab, VSCode, Cursor, Tableau, AWS, LLM, AI
 
-Libraries: NumPy, pandas, scikit-learn, Dask, PyTorch, TensorFlow, Matplotlib, D3
+Libraries: NumPy, pandas, scikit-learn, Dask, PyTorch, TensorFlow, Matplotlib, D3, OpenCV, LangGraph
 
 [![Chanyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanyoungPark07&show_icons=true)](https://github.com/ChanyoungPark07/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark07&layout=donut&hide=Jupyter+Notebook)](https://github.com/ChanyoungPark07/github-readme-stats)
 
