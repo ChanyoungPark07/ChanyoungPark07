@@ -10,7 +10,7 @@ Developer Tools: Git, GitHub, JupyterLab, Google Colab, VSCode, Cursor, Tableau,
 
 Libraries: NumPy, pandas, scikit-learn, Dask, PyTorch, TensorFlow, Matplotlib, D3, OpenCV, LangGraph
 
-[![Chanyoung's GitHub stats](https://github-readme-stats.vercel.app/api?username=ChanyoungPark07&show_icons=true)](https://github.com/ChanyoungPark07/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark07&layout=donut&hide=Jupyter+Notebook)](https://github.com/ChanyoungPark07/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChanyoungPark07&layout=donut&hide=Jupyter+Notebook)](https://github.com/ChanyoungPark07/github-readme-stats)
 
 As a Data Science student at UC San Diego, I am keen to bridge the gap between academic knowledge and real-world applications.
 
